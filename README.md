@@ -6,12 +6,6 @@ Built in four weeks by a team of six as part of the **Apple Foundation Program a
 
 > The project folder uses the working title `Beyond_The_Cycle`. Open `Mira.xcodeproj`.
 
-## Screenshots
-
-| Home | Calendar | Insight |
-|:---:|:---:|:---:|
-| ![Home](screenshots/home.png) | ![Calendar](screenshots/calendar.png) | ![Insight](screenshots/insight.png) |
-
 ## What it does
 
 Most cycle apps show a dashboard of numbers nobody has time to decode. Mira tells you which phase of your cycle you are in and what your body might need right now.
